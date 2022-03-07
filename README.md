@@ -13,7 +13,6 @@
 * [Contact](#contact)
 
 ## General Information
-- App is used to keep score in ping pong match
 - The main reason to create this app was to learn JavaScript basics
 
 ## Technologies Used
